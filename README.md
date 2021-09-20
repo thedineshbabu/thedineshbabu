@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **.NetCore, Docker, react, c#, Web API, EFCore**
+- 💬 Ask me about **.NetCore, Docker, React Js, c#, Web API, EFCore**
 
 - 📫 How to reach me **thedineshbabu@hotmail.com**
